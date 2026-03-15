@@ -22,3 +22,8 @@
 1. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/retpack/Classification.git
+
+### 📥 Веса модели (Weights)
+Обученные веса для ResNet18 доступны в разделе [Releases].
+Прямая ссылка на скачивание: [best_model.pth](https://github.com/retpack/Classification/releases/download/v1.0/best_model.pth).
+   
