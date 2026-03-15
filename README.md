@@ -22,7 +22,6 @@
 Клонируйте репозиторий:
    ```bash
    git clone https://github.com/retpack/Classification.git
-```
 
 ### 📥 Веса модели (Weights)
 Обученные веса для ResNet18 доступны в разделе [Releases].
